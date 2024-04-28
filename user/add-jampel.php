@@ -1,5 +1,4 @@
 <?php
-echo $_SERVER['REQUEST_METHOD'];
 header("Content-Type: application/json");
 require "../conn.php";
 
